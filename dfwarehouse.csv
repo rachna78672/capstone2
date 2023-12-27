@@ -1,0 +1,51 @@
+index,Shiprocket,INCREFF
+0,Heads,Price (Per Unit)
+1,Inbound (Fresh Stock and RTO),4
+2,Outbound,11
+3,Storage Fee/Cft,Rs 0.15/- Per Day
+4,Customer Return with Detailed QC,15.5
+5,(A) SCOPE OF WORK and STANDARD OPERATING PROCEDURE,<0.2%
+6,Inward,• Boxes counted and weighed. Data captured in the Maven.
+7,Heads,• GRN will be initiated against a valid PO document and Invoice will be captured
+8,Heads,• No QC to be done (Outer Visual Inspection and Color matching)
+9,Heads,"•  Scanning (Goods will have scannable EAN code or unique barcodes) and counting of all inventory, verification of all data by supervisor and completion of GRN. Detailed report is made available"
+10,Heads,• Mobile HHT based Putaway to accurately record warehouse location for every item/roll
+11,Heads,<0.2%
+12,Outward,•  Orders will be received through integration directly into Maven or directly to Maven by the client
+13,Heads,• System driven optimised picking with real-time inventory correction by marking Not Found and alternate locations suggested
+14,Heads,• System driven packing by putting products into Polybags to maintain accuracy and generate pack slips
+15,Heads,• Print the invoice as generated through integration or provided by the client 
+16,Heads,• Shipping labels and AWB via integration with vendors and generation of digital manifests to ensure accuracy
+17,Heads,• Digital PODs from vendors if available via integration
+18,Heads,<0.2%
+19,Returns,•  RTO and Customer Returns are received and Inwarded in the warehouse Outer package visible inspection is done before inwarding 
+20,Heads,<0.2%
+21,Inventory management,•  Daily cycle count to maintain accuracy and deliver SLAs without disrupting regular operations. Complete Inventory to be covered in 3 months.
+22,Heads,•  Any quantity not found during Cycle Count shall be parked in a non-serviceable location in Maven
+23,Heads,• Annual wall to wall Audit including global count driven by system to ensure speed while eliminating human error
+24,(B) MISCELLANEOUS,<0.2%
+25,Heads,<0.2%
+26,Heads,<0.2%
+27,Heads,<0.2%
+28,© EXCLUSIONS,<0.2%
+29,Heads,<0.2%
+30,Heads,<0.2%
+31,Heads,<0.2%
+32,Heads,<0.2%
+33,Heads,<0.2%
+34,Heads,<0.2%
+35,(D) KEY PERFORMANCE INDICATORS AND COMMERCIALS,<0.2%
+36,Performance Indicators,<0.2%
+37,Performance Measure,Target
+38,Monthly Fill Rate,>99.8%
+39,Heads,<0.2%
+40,Daily Processing Capacity,<0.2%
+41,Heads,<0.2%
+42,Heads,<0.2%
+43,Customer Complaints,<0.2%
+44,Heads,<0.2%
+45,Allowed Shrinkage,<0.2%
+46,Heads,1 Annual Audit is included in the commercials
+47,Penalty,2x of the service fee per affected qty
+48,Heads,10% of monthly billing; not applicable if there are outstanding payments; no cap on shrinkage
+49,Others,7 days per week
